@@ -80,3 +80,6 @@ results = ode_simulator('compare', {'ab2am2', 'ab3am3', 'ab4am4'}, ...
 │ └── ...
 └── README.md
 ```
+
+## Author
+This project was created by **Rodrigo Casado Noguerales** (as part of the 4th year course Numerical Methods of the Double BSc in Mathematics and Physics at Complutense University of Madrid).
